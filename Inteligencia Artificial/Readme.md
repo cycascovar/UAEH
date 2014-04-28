@@ -20,10 +20,10 @@ Presentacion preliminar
 Proyecto final
 =================
 Entregar lo siguiente:
----
+```
   * Reporte impreso.
   * USB: codigo, DB, (java o matlab)
   * Prototipo SE funcional.
   * Todos los cambios se van a hacer con dicho branch.
   * Sistema Experto: GUI, DB.
----
+```  
